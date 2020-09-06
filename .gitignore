@@ -141,10 +141,12 @@ L3/tue_course/sqlResult.csv
 
 
 L1/sat_course/L1_名企_汽车投诉采集.ipynb
-L1/sat_course/L1_名企_Thinking.md
+
 L1/tue_course/sample.csv
 L1/tue_course/test.csv
 L1/tue_course/train.csv
 L2/sat_course/Market_Basket_Optimisation.csv
 L2/tue_course/Market_Basket_Optimisation.csv
- .gitignore
+
+.gitignore
+L1/sat_course/汽车质量投诉 - 车质网.csv
