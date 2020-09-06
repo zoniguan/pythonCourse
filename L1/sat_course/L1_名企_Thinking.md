@@ -5,7 +5,7 @@
     - 采集器: 八爪鱼
     - 框架: Scrapy, PySpider, Apify
     - Chrome扩展: web scraper, data scrapy
-
+ 
 
 
 #### Thinking 2: 企业的数据源来自多个维度，请思考什么是企业的数据中台，你是如何理解一方数据，二方数据，三方数据？
