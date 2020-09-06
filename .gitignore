@@ -134,12 +134,6 @@ L3/tue_course/sqlResult.csv
 .vscode/settings.json
 
 
-
-
-
-
-
-
 L1/sat_course/L1_名企_汽车投诉采集.ipynb
 
 L1/tue_course/sample.csv
@@ -150,3 +144,7 @@ L2/tue_course/Market_Basket_Optimisation.csv
 
 .gitignore
 L1/sat_course/汽车质量投诉 - 车质网.csv
+L3/sat_course/L3_2_delicious.ipynb
+.gitignore
+.gitignore
+L3/sat_course/L3_2_delicious.ipynb
