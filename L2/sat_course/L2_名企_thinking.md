@@ -1,5 +1,5 @@
 ## L2-2 Thinking  
-
+ 
 ### Thinking 1 : MVC框架指的是什么
 
  
