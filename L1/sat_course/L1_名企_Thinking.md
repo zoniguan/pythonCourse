@@ -1,7 +1,7 @@
 #### Thinking 1: 当我们思考数据源的时候，都有哪些维度，如果你想要使用爬虫抓取数据，都有哪些工具
 - 考虑维度
     - 准确性, 全面性, 合理, 权威
-- 爬虫工具
+- 爬虫工具 
     - 采集器: 八爪鱼
     - 框架: Scrapy, PySpider, Apify
     - Chrome扩展: web scraper, data scrapy
