@@ -147,3 +147,4 @@ L1/tue_course/test.csv
 L1/tue_course/train.csv
 L2/sat_course/Market_Basket_Optimisation.csv
 L2/tue_course/Market_Basket_Optimisation.csv
+ .gitignore
