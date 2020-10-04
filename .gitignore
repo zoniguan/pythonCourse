@@ -158,3 +158,109 @@ python基础课/未确认 800520.crdownload
 L4/sat_course/gesim_word2Vec.ipynb
 L4/sat_course/SVD_图片重构.ipynb
 L4/sat_course/thinking.md
+
+
+L6/tue_course/课堂资料
+L7/tue_course/L7自测文档.xls
+L6/lesson06-2BIV3.2.pptx
+.gitignore
+L5/课堂作业/lesson05BIV2.1.pptx
+L5/课堂作业/lesson05-2BIV1.9.pptx
+L5/课堂作业/L5自测文档.xls
+L5/课堂作业/L5-2自测文档.xls
+L5/课堂作业/L5-code.zip
+L6/sat_course/lesson06-2BIV3.2.pdf
+L5/课堂作业/L5-code/L5/gbdt/gbdt_boston.py
+L5/课堂作业/L5-code/L5/gbdt/gbdt_iris.py
+L5/课堂作业/L5-code/L5/gbdt/gbdt_lr_random_samples.py
+L5/课堂作业/L5-code/L5/nfm/movielens_sample.txt
+L5/课堂作业/L5-code/L5/nfm/nfm_movielens_sample.py
+L5/课堂作业/L5-code/L5/wide_deep/movielens_sample.txt
+L5/课堂作业/L5-code/L5/wide_deep/wdl_movielens_sample.py
+L5/课堂作业/L5-code (2)/L5/deepfm/deepfm_movielens_sample.py
+L5/课堂作业/L5-code (2)/L5/deepfm/movielens_sample.txt
+L5/课堂作业/L5-code (2)/L5/knn_cf/itemcf.py
+L5/课堂作业/L5-code (2)/L5/knn_cf/ratings.csv
+L5/课堂作业/L5-code (2)/L5/libfm/libfm.exe
+L5/课堂作业/L5-code (2)/L5/libfm/out.txt
+L5/课堂作业/L5-code (2)/L5/libfm/ratings.csv
+L5/课堂作业/L5-code (2)/L5/libfm/ratings.dat
+L5/课堂作业/L5-code (2)/L5/libfm/ratings.dat.libfm
+L5/课堂作业/L5-code (2)/L5/libfm/titanic_out.txt
+L5/课堂作业/L5-code (2)/L5/libfm/triple_format_to_libfm.pl
+L5/课堂作业/L5-code (2)/L5/libfm/titanic/test.csv
+L5/课堂作业/L5-code (2)/L5/libfm/titanic/test.csv.libfm
+L5/课堂作业/L5-code (2)/L5/libfm/titanic/train.csv
+L5/课堂作业/L5-code (2)/L5/libfm/titanic/train.csv.libfm
+L5/课堂作业/L5-code (2)/L5/xlearn/small_test.txt
+L5/课堂作业/L5-code (2)/L5/xlearn/small_train.txt
+L5/课堂作业/L5-code (2)/L5/xlearn/xlearn_criteo.py
+L5/sat_course/课堂资料/L5-2自测文档.xls
+L5/sat_course/课堂资料/lesson05BIV2.1.pptx
+L5/sat_course/课堂资料/L5-code (2)/L5/deepfm/deepfm_movielens_sample.py
+L5/sat_course/课堂资料/L5-code (2)/L5/deepfm/movielens_sample.txt
+L5/sat_course/课堂资料/L5-code (2)/L5/knn_cf/itemcf.py
+L5/sat_course/课堂资料/L5-code (2)/L5/knn_cf/ratings.csv
+L5/sat_course/课堂资料/L5-code (2)/L5/libfm/libfm.exe
+L5/sat_course/课堂资料/L5-code (2)/L5/libfm/out.txt
+L5/sat_course/课堂资料/L5-code (2)/L5/libfm/ratings.csv
+L5/sat_course/课堂资料/L5-code (2)/L5/libfm/ratings.dat
+L5/sat_course/课堂资料/L5-code (2)/L5/libfm/ratings.dat.libfm
+L5/sat_course/课堂资料/L5-code (2)/L5/libfm/titanic_out.txt
+L5/sat_course/课堂资料/L5-code (2)/L5/libfm/triple_format_to_libfm.pl
+L5/sat_course/课堂资料/L5-code (2)/L5/libfm/titanic/test.csv
+L5/sat_course/课堂资料/L5-code (2)/L5/libfm/titanic/test.csv.libfm
+L5/sat_course/课堂资料/L5-code (2)/L5/libfm/titanic/train.csv
+L5/sat_course/课堂资料/L5-code (2)/L5/libfm/titanic/train.csv.libfm
+L5/sat_course/课堂资料/L5-code (2)/L5/xlearn/small_test.txt
+L5/sat_course/课堂资料/L5-code (2)/L5/xlearn/small_train.txt
+L5/sat_course/课堂资料/L5-code (2)/L5/xlearn/xlearn_criteo.py
+L5/tue_course/课堂资料/L5自测文档.xls
+L5/tue_course/课堂资料/lesson05-2BIV1.9.pptx
+L5/tue_course/课堂资料/L5-code/L5/gbdt/gbdt_boston.py
+L5/tue_course/课堂资料/L5-code/L5/gbdt/gbdt_iris.py
+L5/tue_course/课堂资料/L5-code/L5/gbdt/gbdt_lr_random_samples.py
+L5/tue_course/课堂资料/L5-code/L5/nfm/movielens_sample.txt
+L5/tue_course/课堂资料/L5-code/L5/nfm/nfm_movielens_sample.py
+L5/tue_course/课堂资料/L5-code/L5/wide_deep/movielens_sample.txt
+L5/tue_course/课堂资料/L5-code/L5/wide_deep/wdl_movielens_sample.py
+L6/sat_course/课堂资料/lesson06-2BIV3.2.pdf
+L7/tue_course/课堂作业/action1_boston_pytorch.ipynb
+L7/tue_course/课堂作业/action2_eda_recommendation.ipynb
+L7/tue_course/课堂作业/L7自测文档.xls
+L7/tue_course/课堂作业/lesson07BIV1.3.pptx
+L7/tue_course/课堂作业/L7-code/code/fresh_comp_offline下载.txt
+L7/tue_course/课堂作业/L7-code/code/numpy_boston.py
+L7/tue_course/课堂作业/L7-code/code/numpy_model.py
+L7/tue_course/课堂作业/L7-code/code/activation_function/relu1.py
+L7/tue_course/课堂作业/L7-code/code/activation_function/sigmod1.py
+L7/tue_course/课堂作业/L7-code/code/activation_function/tanh1.py
+L7/tue_course/课堂作业/L7-code/code/python_base/defaultdict1.py
+L7/tue_course/课堂作业/L7-code/code/python_base/time1.py
+L7/tue_course/课堂作业/fresh_comp_offline/result_sample.csv
+L7/tue_course/课堂作业/fresh_comp_offline/tianchi_fresh_comp_train_item.csv
+L7/tue_course/课堂作业/fresh_comp_offline/tianchi_fresh_comp_train_user.csv.baiduyun.p.downloading
+L7/tue_course/课堂作业/fresh_comp_offline/tianchi_fresh_comp_train_user.csv
+L6/sat_course/课堂资料/L6-2自测文档.xls
+L4/tue_course/movieLens_prediction.ipynb
+L4/tue_course/paper_reading_notes.md
+L5/sat_course/READme.md
+L5/tue_course/READme.md
+L6/sat_course/action_minHash_query.ipynb
+L6/sat_course/READme.md
+L6/sat_course/thinking.md
+L6/sat_course/课堂资料/L6-code/L6/minhash_test.py
+L6/sat_course/课堂资料/L6-code/L6/minhashlsh.py
+L6/sat_course/课堂资料/L6-code/L6/MinHashLSHEnsemble.py
+L6/sat_course/课堂资料/L6-code/L6/MinHashLSHForest_news.py
+L6/sat_course/课堂资料/L6-code/L6/MinHashLSHForest.py
+L6/sat_course/课堂资料/L6-code/L6/sentences.txt
+L6/sat_course/课堂资料/L6-code/L6/simhash_test.py
+L6/sat_course/课堂资料/L6-code/L6/stopword.txt
+L6/sat_course/课堂资料/L6-code/L6/weibos.txt
+L6/tue_course/action_男女声音识别.ipynb
+L6/tue_course/READme.md
+L6/tue_course/thinking.md
+L4/tue_course/movieLens_prediction.ipynb
+L4/tue_course/movieLens_prediction.ipynb
+datasketch-1.5.1-py2.py3-none-any.whl
